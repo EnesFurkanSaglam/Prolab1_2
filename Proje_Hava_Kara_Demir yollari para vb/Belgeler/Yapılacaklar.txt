@@ -1,0 +1,45 @@
+**** Rezervasyon İşlemi
+
+-> İlk olarak seferler gözüksün
+> seferler gözükürken doluysa gözükmesin(rezervasyon işlemine baksın)
+> A,B,C,D... firamları ayrı ayrı gözükecek
+> Gün gün ayrılacak 
+ 
+-> Sonra kendi seçeceği şehirleri girsin
+
+-> kaç kişi için isteiğini girecek 
+>ona göre fora sokarız -- while kullanabiliriz hepsi için ayrı sistem olacak 
+>sonra bilgiler görüntülenebilecek
+
+-> direk koltuk stısını azaltalabiliriz güne göre(azaltıp arttıracağız) gösteriziriz
+
+-> en sonda ödeme sayfasında fiyat kredi kartı vb bilgiler çıkacak (istenilecek) 
+
+
+**** Kar Zarar Olayı
+
+-> Rezervasyona göre hesaplanacak 
+
+-> km/yakıt olayını ve çalışanlar + bilet + hizmet bedeli fiyatlarına göre hesaplanacak
+
+-> ve firma kısmında her firma için ayrı ayrı göstereceğiz
+
+
+
+**** Random olayı
+
+-> Bu olayı en son yapacağız
+
+-> I dont have any idea about this section :') (wowww) -weird- :DDD ahahhahaahhahahahha
+
+
+
+
+
+
+
+
+
+
+
+
